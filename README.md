@@ -28,9 +28,7 @@ JavaScript → Game logic and interactivity.
 
 📂 Project Structure
 
-guess-the-number/
-
-├── index.html    # HTML file with embedded JavaScript
+guess-the-number/ ├── index.html    # HTML file with embedded JavaScript
 
 -----------------------------------------------------------------------------------
 💡 Features
