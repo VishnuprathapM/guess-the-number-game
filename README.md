@@ -21,3 +21,11 @@ Your mission: Guess the right number before your score runs out!
 
 ---
 
+## 🖼️ Screenshot
+-**<img width="1919" height="1013" alt="guess-the-no screenshot(1)" src="https://github.com/user-attachments/assets/78946a86-0d4b-4891-8231-f1d9e77e3dc3" />**
+-**<img width="1919" height="1015" alt="guess-the-no screenshot(2)" src="https://github.com/user-attachments/assets/88577638-8450-4274-8576-17b101999d54" />**
+
+
+
+
+
