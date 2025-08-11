@@ -1,8 +1,11 @@
 🎯 Guess the Number
+
 A simple JavaScript game where the player tries to guess a randomly generated number between 1 and 10.
 Your mission: Guess the right number before your score runs out!
 
+---------------------------------------------------------------------------
 📜 How It Works
+
 The game generates a random number between 1 and 10.
 
 You enter your guess in the input box.
@@ -14,10 +17,14 @@ If wrong, your score decreases by 1.
 
 Keep guessing until you get the right number or run out of score.
 
+-----------------------------------------------------------------------------
 🛠️ Technologies Used
+
 HTML → Structure of the game.
 
 JavaScript → Game logic and interactivity.
+
+-------------------------------------------------------------------------
 
 📂 Project Structure
 
@@ -25,17 +32,18 @@ guess-the-number/
 │
 ├── index.html    # HTML file with embedded JavaScript
 
-
+-----------------------------------------------------------------------------------
 💡 Features
 
-Random number generation.
+-Random number generation.
 
-Score tracking system.
+-Score tracking system.
 
-Simple and beginner-friendly JavaScript logic.
+-Simple and beginner-friendly JavaScript logic.
 
-Instant win/lose feedback.
+-Instant win/lose feedback.
 
+----------------------------------------------------------------------------------------
 
 🖼️ Screenshots
 
